@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "Welcome to Jekyll!"
+layout: default
+title:  "Welcome to Ruth!"
 date:   2025-01-16 14:32:16 +0000
 categories: jekyll update
 ---
