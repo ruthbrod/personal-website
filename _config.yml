@@ -21,11 +21,13 @@
 title: Ruth Broderick Consulting
 email: your-email@example.com
 description: Let’s talk about how I can help elevate your product to the next level.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ruthbroderick.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ruth-broderick-24995559
 linkedin_username_display: ruth-broderick
 github_username: ruthbrod
+
+repository: "https://github.com/ruthbrod/personal-website"
 
 # Build settings
 # theme: minima
