@@ -21,13 +21,23 @@ permalink: /cv/
 *   Proficient in business intelligence software Looker, Heap and Google Analytics
 
 #### PROFESSIONAL EXPERIENCE
-**Ruth Broderick Consulting**, Product Management Consultant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Remote, UK | 2024 - present
-<br>_Self employed_
+<p style="text-align:left;"> 
+	<strong>Ruth Broderick Consulting</strong>, Product Management Consultant
+    <span style="float:right;">
+        Remote, UK | 2024 - present
+    </span>
+</p>
+_Self employed_
 <br>I help companies of all sizes drive product success. With over a decade of experience, I offer interim product management services, and mentor both founders and team members in honing their product management skills. I streamline processes to prioritise effectively, understand customer needs, and deliver impactful results. I specialise in strategy, discovery, and delivery, with a proven track record of launching products from 0 to 1, managing cross-functional initiatives, and ensuring seamless execution. My services are ideal for organisations looking for short-term leadership or expert support to accelerate their product goals and make meaningful progress.
-<br><br>
+<br><br><br>
 
-**Tide Platform**, Head of Product &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London, UK | 2021 - 2024
-<br>_Series C all-in-one business finance platform_
+<p style="text-align:left;"> 
+	<strong>Tide Platform</strong>, Head of Product
+    <span style="float:right;">
+        London, UK | 2021 - 2024
+    </span>
+</p>
+_Series C all-in-one business finance platform_
 *   Worked directly with C-Suite to define revenue targets, influence decisions and communicate updates
 *   Grew Accounting ARR from 0 to £5.2million within 20 months of product launch
 *   Mentored and guided product managers across the company
@@ -42,8 +52,13 @@ Lead Product Manager
 *   Introduced product methodologies to wider Tide product community, driving change within the organisation to become a product-led company
 <br><br>
 
-**FreeAgent**, Group Product Manager &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edinburgh, UK | 2017 - 2021
-<br>_Scale up, listed on LSE AIM in 2016 and acquired by Natwest Group in 2018_
+<p style="text-align:left;"> 
+	<strong>FreeAgent</strong>, Group Product Manager
+    <span style="float:right;">
+        Edinburgh, UK | 2017 - 2021
+    </span>
+</p>
+_Scale up, listed on LSE AIM in 2016 and acquired by Natwest Group in 2018_
 *   Led a product group consisting of three product teams, overseeing their strategies and providing guidance where needed
 *   Line managed and coached three team members, responsible for their development
 *   Championed the product and product management practices to influence and lead opinion across the organisation
@@ -65,8 +80,13 @@ Product Manager
 *   Understood the technical aspects of the problem, the product domain and the market, and using this to inform product decisions
 <br><br>
 
-**Standard Life**, Senior Digital Product Owner &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edinburgh, UK | 2011 - 2016
-<br>_UK-based financial services company providing pension and savings products to individuals and businesses_
+<p style="text-align:left;"> 
+	<strong>Standard Life</strong>, Senior Digital Product Owner
+    <span style="float:right;">
+        Edinburgh, UK | 2011 - 2016
+    </span>
+</p>
+_UK-based financial services company providing pension and savings products to individuals and businesses_
 *   Responsible for delivery of market-leading pensions reform digital product, enabling customers to withdraw from their pensions online
 *   Other roles include Proposition Architect, 4 placements within Sales & Marketing Graduate scheme over two years, and Sales & Marketing Intern in the Intel Team
 
