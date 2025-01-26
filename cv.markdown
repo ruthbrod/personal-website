@@ -3,6 +3,7 @@ layout: default
 permalink: /cv/
 ---
 
+
 <div style="text-align: right;">
 <a href="/">Back to homepage</a>
 </div>
