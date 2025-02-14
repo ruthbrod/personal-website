@@ -59,6 +59,15 @@ table {
     white-space: nowrap; /* Prevents breaking mid-line */
 }
 
+.profile-image {
+    width: 380px; /* Default size for large screens */
+    float: right;
+    margin-left: 10px;
+    margin-top: 5px;
+    max-width: 100%; /* Ensures it never exceeds screen width */
+    height: auto; /* Maintains aspect ratio */
+}
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -506,5 +515,13 @@ Small Device Styles
         display: block;
         text-align: left; /* Aligns with the left content */
         margin-top: 5px; /* Adds spacing */
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .profile-image {
+        float: none; /* Removes floating */
+        display: block;
+        margin: 10px auto; /* Centers the image */
     }
 }

@@ -8,7 +8,9 @@ layout: default
 
 # Hi, I’m Ruth 👋
 
-<img src="{{ '/_assets/profile.jpg' | relative_url }}" alt="Hi, I'm Ruth" style="width: 380px; float: right; margin-left: 10px; margin-top: 5px;">
+<img src="{{ '/_assets/profile.jpg' | relative_url }}" 
+     alt="Hi, I'm Ruth" 
+     class="profile-image">
 
 I’m a product leader with over 10 years experience in product management, having held roles such as Group/Lead PM and Head of Product at a thriving scale-up. I offer interim product management services, and mentor both founders and team members in honing their product management skills. I streamline processes to prioritise effectively, deeply understand customer needs, and deliver impactful results.
 <br><br>
