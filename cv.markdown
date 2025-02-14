@@ -22,9 +22,11 @@ permalink: /cv/
 *   Proficient in business intelligence software Looker, Heap and Google Analytics
 
 #### PROFESSIONAL EXPERIENCE
-<p style="text-align:left;"> 
-	<strong>Ruth Broderick Consulting</strong>, Product Management Consultant
-    <span style="float:right;">
+<p class="job-title">
+    <span class="left-content">
+        <strong>Ruth Broderick Consulting</strong>, Product Management Consultant
+    </span>
+    <span class="right-content">
         Remote, UK | 2024 - present
     </span>
 </p>
@@ -32,9 +34,11 @@ _Self employed_
 <br>I help companies of all sizes drive product success. With over a decade of experience, I offer interim product management services, and mentor both founders and team members in honing their product management skills. I streamline processes to prioritise effectively, understand customer needs, and deliver impactful results. I specialise in strategy, discovery, and delivery, with a proven track record of launching products from 0 to 1, managing cross-functional initiatives, and ensuring seamless execution. My services are ideal for organisations looking for short-term leadership or expert support to accelerate their product goals and make meaningful progress.
 <br><br><br>
 
-<p style="text-align:left;"> 
-	<strong>Tide Platform</strong>, Head of Product
-    <span style="float:right;">
+<p class="job-title">
+    <span class="left-content">
+        <strong>Tide Platform</strong>, Head of Product
+    </span>
+    <span class="right-content">
         London, UK | 2021 - 2024
     </span>
 </p>
@@ -53,9 +57,11 @@ Lead Product Manager
 *   Introduced product methodologies to wider Tide product community, driving change within the organisation to become a product-led company
 <br><br>
 
-<p style="text-align:left;"> 
-	<strong>FreeAgent</strong>, Group Product Manager
-    <span style="float:right;">
+<p class="job-title">
+    <span class="left-content">
+        <strong>FreeAgent</strong>, Group Product Manager
+    </span>
+    <span class="right-content">
         Edinburgh, UK | 2017 - 2021
     </span>
 </p>
@@ -81,9 +87,11 @@ Product Manager
 *   Understood the technical aspects of the problem, the product domain and the market, and using this to inform product decisions
 <br><br>
 
-<p style="text-align:left;"> 
-	<strong>Standard Life</strong>, Senior Digital Product Owner
-    <span style="float:right;">
+<p class="job-title">
+    <span class="left-content">
+        <strong>Standard Life</strong>, Senior Digital Product Owner
+    </span>
+    <span class="right-content">
         Edinburgh, UK | 2011 - 2016
     </span>
 </p>

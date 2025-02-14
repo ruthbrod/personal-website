@@ -39,6 +39,26 @@ table {
   border-spacing: 0;
 }
 
+.job-title {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap; /* Allows wrapping on mobile */
+}
+
+/* Ensure left content takes full width when wrapping */
+.left-content {
+    display: inline-block;
+    width: auto;
+}
+
+/* Ensure right content is properly aligned */
+.right-content {
+    display: inline-block;
+    text-align: right;
+    white-space: nowrap; /* Prevents breaking mid-line */
+}
+
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
@@ -475,4 +495,16 @@ Small Device Styles
     font-size: 11px;
   }
 
+}
+
+@media screen and (max-width: 768px) {
+    .job-title {
+        display: block; /* Ensures items stack */
+    }
+
+    .right-content {
+        display: block;
+        text-align: left; /* Aligns with the left content */
+        margin-top: 5px; /* Adds spacing */
+    }
 }
